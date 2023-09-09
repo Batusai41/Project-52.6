@@ -1,0 +1,11 @@
+[
+    {"type":"header","version":"5.0.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+    {"type":"database","name":"db_auth"},
+    {"type":"table","name":"users","database":"db_auth","data":
+    [
+    {"USER_ID":"7","LOGIN":"Иван","PASSWORD":"12345","TOKEN":"$2y$10$En1uzEcQX\/lLKn6dLdEs8O97otN2Six82BfmB\/8P9vEq0U6sTHj1O","CHBOX":"0","ROLE":"admin"},
+    {"USER_ID":"8","LOGIN":"Петр","PASSWORD":"56789","TOKEN":"$2y$10$9JpMECUO\/4kMaAYlfksGWO7oMvICLj\/xV6z772ocqRszV6oJ5xfk2","CHBOX":"0","ROLE":"client"},
+    {"USER_ID":"9","LOGIN":"Владимир","PASSWORD":"Evn60Sab","TOKEN":"$2y$10$hzztCP8psVJ7A4\/nICuRlOWFXmXTD1fEyxS9reZ4MCbUnu\/1NasJi","CHBOX":"0","ROLE":"admin"}
+    ]
+    }
+    ]
